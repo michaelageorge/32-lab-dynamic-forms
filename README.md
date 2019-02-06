@@ -6,8 +6,8 @@
 ### Author: Michael George, Code 401d28
 
 ### Links and Resources
-* [(sandbox-link)](#)
-* [repo](#)
+* [Dynamic Forms (sandbox-link)](https://codesandbox.io/s/4xjz8qkn0)
+* [repo](https://github.com/michaelageorge/32-lab-dynamic-forms)
 * [travis](http://xyz.com)
 #### Documentation
 * [jsdoc](http://xyz.com) (All assignments)
